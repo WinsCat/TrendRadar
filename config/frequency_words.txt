@@ -12,14 +12,7 @@ Anthropic
 
 ai
 !gai
+AIGC
 人工智能
 
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-
-
-
+融霖科技

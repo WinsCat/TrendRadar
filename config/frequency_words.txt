@@ -1,3 +1,14 @@
+AI
+!gai
+人工智能
+
+股市
+中国股市
+创业版
+基金
+
+中金所
+
 谷歌
 google
 gemini
@@ -10,13 +21,6 @@ sora
 claude
 Anthropic
 
-ai
-!gai
-人工智能
-
-股市
-中国股市
-创业版
 
 
 
